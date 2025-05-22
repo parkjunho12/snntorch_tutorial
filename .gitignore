@@ -26,6 +26,10 @@ ipython_config.py
 .idea/**/dictionaries
 .idea/**/shelf
 
+*.csv
+*.xls
+*.zip
+
 # AWS User-specific
 .idea/**/aws.xml
 
